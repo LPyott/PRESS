@@ -1,0 +1,52 @@
+state,early voting,election day registration,automatic voter registration,voter ID,police_attack,protestor_attack
+Alabama,yes,no,no,no,no,yes
+Alaska,yes,no,yes,no,no,no
+Arizona,no,no,no,no,no,yes
+Arkansas,yes,no,no,no,no,no
+California,yes,yes,yes,no,yes,no
+Colorado,yes,yes,yes,no,yes,no
+Connecticut,no,yes,no,no,no,no
+Delaware,no,no,no,no,no,no
+District of Columbia,yes,yes,yes,no,yes,yes
+Florida,yes,no,no,no,no,no
+Georgia,yes,no,yes,yes,yes,yes
+Hawaii,yes,yes,no,no,no,no
+Idaho,yes,yes,no,no,no,no
+Illinois,yes,yes,yes,no,yes,yes
+Indiana,yes,no,no,yes,no,no
+Iowa,yes,yes,no,no,yes,no
+Kansas,yes,no,no,yes,no,no
+Kentucky,no,no,no,no,yes,yes
+Louisiana,yes,no,no,no,no,no
+Maine,yes,yes,no,no,no,no
+Maryland,yes,no,yes,no,no,no
+Massachusetts,yes,no,yes,no,no,no
+Michigan,yes,yes,yes,no,yes,no
+Minnesota,yes,yes,no,no,yes,yes
+Mississippi,no,no,no,yes,no,no
+Missouri,no,no,no,no,yes,no
+Montana,yes,yes,no,no,no,no
+Nebraska,yes,no,no,no,yes,no
+Nevada,yes,no,yes,no,yes,no
+New Hampshire,no,yes,no,no,no,no
+New Jersey,yes,no,yes,no,yes,no
+New Mexico,yes,no,no,no,no,no
+New York,no,no,no,no,yes,no
+North Carolina,yes,no,no,no,yes,yes
+North Dakota,yes,no,no,no,no,no
+Ohio,yes,no,no,no,yes,no
+Oklahoma,yes,no,no,no,no,no
+Oregon,yes,no,yes,no,yes,no
+Pennsylvania,no,no,no,no,yes,yes
+Rhode Island,no,no,yes,no,no,no
+South Carolina,no,no,no,no,no,no
+South Dakota,yes,no,no,no,no,no
+Tennessee,yes,no,no,yes,no,no
+Texas,yes,no,no,no,yes,no
+Utah,yes,yes,no,no,no,no
+Vermont,yes,yes,yes,no,no,no
+Virginia,no,no,no,yes,yes,no
+Washington,yes,yes,yes,no,no,no
+West Virginia,yes,no,yes,no,no,no
+Wisconsin,yes,yes,no,yes,yes,no
+Wyoming,yes,yes,no,no,no,no
